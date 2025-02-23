@@ -1,6 +1,8 @@
 # NttfExamBypasser
 Extention to bypass the exam !
 
+extention link : https://github.com/user-attachments/files/18929239/Extention.zip
+
 Here is the steps you need to follow 
 first download the extention 
 1)Go to EDGE
