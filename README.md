@@ -32,3 +32,4 @@ Many users face issues with copying text. To fix this, install the following Mic
 ## **Daily Updated Source Files**  
 The source files will be updated daily in the repository, primarily for **E3 exams** and, if possible, **M3 exams** as well. Stay updated by checking the repository regularly.  
 
+**Note:** This tool is intended for **educational and entertainment purposes only**. It should **not** be used for any official, government, or legally regulated examinations. By using this tool, you acknowledge that you are doing so at your **own risk**, and the developers hold **no responsibility** for any consequences arising from its use.
