@@ -1,7 +1,7 @@
 # NttfExamBypasser
 Extention to bypass the exam !
 
-NOTE: MANY USER ARE FACING COPY PROBLEM SO USE THIS TO FIX IT : https://microsoftedge.microsoft.com/addons/detail/enable-copy-paste-ecp/lepcimpolkbhimlaabjbinhlohocmjal
+
 
 
 extention link : https://github.com/user-attachments/files/18929239/Extention.zip
@@ -15,6 +15,9 @@ first download the extention
 
 Get gemini api key :
 https://aistudio.google.com/apikey  (its free )
+
+NOTE: MANY USER ARE FACING COPY PROBLEM SO USE THIS TO FIX IT : https://microsoftedge.microsoft.com/addons/detail/enable-copy-paste-ecp/lepcimpolkbhimlaabjbinhlohocmjal
+
 
 Add source file
 i will upadte the souce daily in this repo for e3 and m3 if possible
