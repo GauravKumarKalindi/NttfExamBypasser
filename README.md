@@ -1,6 +1,9 @@
 # NttfExamBypasser
 Extention to bypass the exam !
 
+NOTE: MANY USER ARE FACING COPY PROBLEM SO USE THIS TO FIX IT : https://microsoftedge.microsoft.com/addons/detail/enable-copy-paste-ecp/lepcimpolkbhimlaabjbinhlohocmjal
+
+
 extention link : https://github.com/user-attachments/files/18929239/Extention.zip
 
 Here is the steps you need to follow 
