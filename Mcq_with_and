@@ -1,0 +1,109 @@
+#upadted on 24/02/25
+
+id question : 
+#industrial drive MCQ
+
+I'll reformat the list exactly as you requested, using the format "question: [question], ans: [answer]":
+
+question: To control the speed of motor, electric __________ is used., ans: drive
+question: Chopper is used in electric drive as, ans: modulator
+question: Maintance of DC motor is ___________ than AC motor., ans: more
+question: V/F speed control method is used in __________ drives., ans: AC
+question: VFD use only ___________ type of motor., ans: AC
+question: Power modulator in electric drive is, ans: all the above
+question: In four quadrant DC diagram, 1st quadrant shows, ans: forward motoring
+question: In four quadrant DC diagram, 2nd quadrant shows, ans: forward braking
+question: In four quadrant DC diagram, 3rd quadrant shows, ans: reverse braking
+question: Usually VSD uses _________ type motor., ans: DC
+question: In __________ drive, each machine is driven by its own separate motor., ans: indivisual drive
+question: The concept of V/f control of induction motors resuls in, ans: constant torque
+question: Polarity of supply voltage is reversed in which type of braking?, ans: plugging
+question: What type electric drive is used in cranes?, ans: multimotor
+question: In four quadrant circuit, mainly _____________ is used., ans: chopper
+question: for the selection of motor, ___________ is to be considered., ans: all the above
+question: Back emf in DC motor is  -------------- proportional to speed., ans: directly
+question: To save energy during braking, _________ braking is used., ans: regenrative
+question: At stanstill condition, value of slip is, ans: 1
+question: Continous duty cycle motors are labeled as, ans: S1
+question: Short time duty cycle motors are labeled as, ans: S2
+question: Intermittent periodic duty cycle of motor is labeled as, ans: S3
+question: Intermittent periodic duty with starting of motor is labeled as, ans: S3
+question: Digester is used in ____________ pulping method., ans: chemical
+question: In BOF, pure __________ gas is used., ans: oxygen
+question: In steel mill, to lighten the impurities ___________ is used., ans: flux
+question: Calender machine is used in ______ plant., ans: paper
+question: Main product of Kiln furnace is, ans: clinker
+question: In ___________ process, coal convert into coke., ans: carbonisation
+question: Chipper is used in ____________ pulping method., ans: mechanical
+question: In paper mill, _________ process is done to make the paper opaque., ans: sizing
+question: The machine used to make weaving in textile mill isknown as ____________., ans: loom
+question: Temperature of blast furnance is, ans: 1600°C
+question: In steel plant, for scrap matterial _____________ furnance is used., ans: EAF
+question: To make paper wrinkel free, smooth and same thickness________ is used in paper mill., ans: calender
+question: Pulper is used in _______ mill., ans: paper
+question: To improvethe setling time of cement _________ is added., ans: gypsum
+question: In cement industry, rotating furnace is, ans: kiln
+question: The product of kiln furnace is known as _____________., ans: clinker
+question: In sugar mill, Centrifuge is usd to remove _________., ans: molasses
+question: Motor used in CNC machine is ______________., ans: servo
+question: In sugar mill, vaccum pan is used to make _____________., ans: crystal
+question: To help crystalisation, ____________ is added in sugar cane juce., ans: sucrose
+question: Temperature of Kiln furnance is, ans: 1450°C
+question: Before entering to Kiln furnance, raw material must pass through, ans: pre heating tower
+question: Centrifuge machine is used in ___________ plant., ans: sugar
+question: Gypsum is added in cement for, ans: settling time
+question: To remove impurities from sugar cane juice, _________ is added., ans: lime water
+question: Cycloconverter changes the level of, ans: frequency
+question: Dual converter consist of ______ number of converters., ans: 2
+question: In dual converter, full converters are connected in, ans: anti parallel
+question: In four quadrant DC diagram, for 1st quadrant, ans: Eb<V
+question: In four quadrant DC diagram, for 2nd quadrant, ans: Eb>V
+question: Chopper converts fixed DC in to _____, ans: variable DC
+question: In dual converter, _________ converter is used., ans: full
+question: In dual converter drive, firing angle for rectifier converter is less than______ degrees., ans: 90
+question: In dual converter drive, firing angle for inverter converter is more than______ degrees., ans: 90
+question: V/F speed control method is used in __________ drives., ans: AC
+question: Kramer method is used to feed back the power of, ans: slip
+question: Which motor type use Kramers method?, ans: Induction
+question: Which motor type use dual converter method?, ans: DC
+question: To feed back slip power ___________ method is used., ans: kramer
+question: In controlled rectifier circuit, _________ semiconductor devices are used., ans: SCR
+question: For crane travel, __________ motor is used., ans: Slip ring motor
+question: Third rail is mostly prefered in ------------------ traction system., ans: DC
+question: In dual coverter, the two converters are connected in, ans: anti parallel
+question: Driving force is given by ________ system to a vehicle., ans: traction
+question: Types of traction system are:-, ans: both A and B
+question: Types of electrification in traction system are, ans: all the above
+question: Adhesion means _________ in traction system., ans: friction
+question: ______________ method of starting of three phase induction motor require six terminal., ans: star delta
+question: During the open circuit condition, the current is equal to ______, ans: 0A
+question: Electro dynamic system is the type of, ans: maglev
+question: Speed ontrol methods of electric traction system is _______ than non electric., ans: easy
+question: Traction system gives, ans: propulsion
+question: Characteristics of traction motors are, ans: all the above
+question: Locomotive running at constant speed is know as ________ running., ans: free
+question: In coasting, locomotive motor is, ans: off
+question: Coefficient of adhesion ___________ with increased roughness between rail and track., ans: increase
+question: types of train resistances, ans: both A and B
+question: Coefficient of adhesion is ratio of tangent force to the _________ force, ans: normal
+question: pantograph collects electricity from __________ lines for locomotive., ans: overhead
+question: Electric multiple unit consists of, ans: all the above
+question: Loading capacity is __________ in EMU as compare to locomotive., ans: more
+question: ___________ transfer power from overhead lines to locomotive., ans: pantograph
+question: For AC-DC conversion in traction system, ________ rectifier is used., ans: controlled
+question: ________ stroke diesel engine is fuel efficient., ans: both A and B
+question: ________ stroke diesel engine is simple in design., ans: 2
+question: DC traction system use ________type of DC motor., ans: series
+question: In tramps, ___________ traction transmission system is used., ans: DC
+question: In AC traction system _________ motor is used., ans: induction
+question: Maglev is a, ans: train
+question: _____________ type of electri braking has more torque., ans: plugging
+question: In AC motor, frequency is -------------- proportional to speed., ans: directly
+question: Magnetic levitation system is popularly known as, ans: MAGLEV
+question: _____________ conductors are used in MAGLEV., ans: super
+question: MAGLEV require, ans: all the above
+question: Trolley bus require ______________ power system., ans: over head
+question: Catenary wire is used with ______________ line., ans: over head
+question: Mumbai local is best example of, ans: EMU
+question: EMU contains, ans: all the above
+question: Trolley bus operating voltage is, ans: 600v
