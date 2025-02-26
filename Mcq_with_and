@@ -5,108 +5,111 @@ If the answer is in the provided source, I'll mark it with a green dot (🟢).
 If the answer is not in the provided source and I use my own knowledge, I'll mark it with a red dot (🔴).
 
 source: 
-
-I'll reformat the list exactly as you requested, using the format "question: [question], ans: [answer]":
-
-question: To control the speed of motor, electric __________ is used., ans: drive
-question: Chopper is used in electric drive as, ans: modulator
-question: Maintance of DC motor is ___________ than AC motor., ans: more
-question: V/F speed control method is used in __________ drives., ans: AC
-question: VFD use only ___________ type of motor., ans: AC
-question: Power modulator in electric drive is, ans: all the above
-question: In four quadrant DC diagram, 1st quadrant shows, ans: forward motoring
-question: In four quadrant DC diagram, 2nd quadrant shows, ans: forward braking
-question: In four quadrant DC diagram, 3rd quadrant shows, ans: reverse braking
-question: Usually VSD uses _________ type motor., ans: DC
-question: In __________ drive, each machine is driven by its own separate motor., ans: indivisual drive
-question: The concept of V/f control of induction motors resuls in, ans: constant torque
-question: Polarity of supply voltage is reversed in which type of braking?, ans: plugging
-question: What type electric drive is used in cranes?, ans: multimotor
-question: In four quadrant circuit, mainly _____________ is used., ans: chopper
-question: for the selection of motor, ___________ is to be considered., ans: all the above
-question: Back emf in DC motor is  -------------- proportional to speed., ans: directly
-question: To save energy during braking, _________ braking is used., ans: regenrative
-question: At stanstill condition, value of slip is, ans: 1
-question: Continous duty cycle motors are labeled as, ans: S1
-question: Short time duty cycle motors are labeled as, ans: S2
-question: Intermittent periodic duty cycle of motor is labeled as, ans: S3
-question: Intermittent periodic duty with starting of motor is labeled as, ans: S3
-question: Digester is used in ____________ pulping method., ans: chemical
-question: In BOF, pure __________ gas is used., ans: oxygen
-question: In steel mill, to lighten the impurities ___________ is used., ans: flux
-question: Calender machine is used in ______ plant., ans: paper
-question: Main product of Kiln furnace is, ans: clinker
-question: In ___________ process, coal convert into coke., ans: carbonisation
-question: Chipper is used in ____________ pulping method., ans: mechanical
-question: In paper mill, _________ process is done to make the paper opaque., ans: sizing
-question: The machine used to make weaving in textile mill isknown as ____________., ans: loom
-question: Temperature of blast furnance is, ans: 1600°C
-question: In steel plant, for scrap matterial _____________ furnance is used., ans: EAF
-question: To make paper wrinkel free, smooth and same thickness________ is used in paper mill., ans: calender
-question: Pulper is used in _______ mill., ans: paper
-question: To improvethe setling time of cement _________ is added., ans: gypsum
-question: In cement industry, rotating furnace is, ans: kiln
-question: The product of kiln furnace is known as _____________., ans: clinker
-question: In sugar mill, Centrifuge is usd to remove _________., ans: molasses
-question: Motor used in CNC machine is ______________., ans: servo
-question: In sugar mill, vaccum pan is used to make _____________., ans: crystal
-question: To help crystalisation, ____________ is added in sugar cane juce., ans: sucrose
-question: Temperature of Kiln furnance is, ans: 1450°C
-question: Before entering to Kiln furnance, raw material must pass through, ans: pre heating tower
-question: Centrifuge machine is used in ___________ plant., ans: sugar
-question: Gypsum is added in cement for, ans: settling time
-question: To remove impurities from sugar cane juice, _________ is added., ans: lime water
-question: Cycloconverter changes the level of, ans: frequency
-question: Dual converter consist of ______ number of converters., ans: 2
-question: In dual converter, full converters are connected in, ans: anti parallel
-question: In four quadrant DC diagram, for 1st quadrant, ans: Eb<V
-question: In four quadrant DC diagram, for 2nd quadrant, ans: Eb>V
-question: Chopper converts fixed DC in to _____, ans: variable DC
-question: In dual converter, _________ converter is used., ans: full
-question: In dual converter drive, firing angle for rectifier converter is less than______ degrees., ans: 90
-question: In dual converter drive, firing angle for inverter converter is more than______ degrees., ans: 90
-question: V/F speed control method is used in __________ drives., ans: AC
-question: Kramer method is used to feed back the power of, ans: slip
-question: Which motor type use Kramers method?, ans: Induction
-question: Which motor type use dual converter method?, ans: DC
-question: To feed back slip power ___________ method is used., ans: kramer
-question: In controlled rectifier circuit, _________ semiconductor devices are used., ans: SCR
-question: For crane travel, __________ motor is used., ans: Slip ring motor
-question: Third rail is mostly prefered in ------------------ traction system., ans: DC
-question: In dual coverter, the two converters are connected in, ans: anti parallel
-question: Driving force is given by ________ system to a vehicle., ans: traction
-question: Types of traction system are:-, ans: both A and B
-question: Types of electrification in traction system are, ans: all the above
-question: Adhesion means _________ in traction system., ans: friction
-question: ______________ method of starting of three phase induction motor require six terminal., ans: star delta
-question: During the open circuit condition, the current is equal to ______, ans: 0A
-question: Electro dynamic system is the type of, ans: maglev
-question: Speed ontrol methods of electric traction system is _______ than non electric., ans: easy
-question: Traction system gives, ans: propulsion
-question: Characteristics of traction motors are, ans: all the above
-question: Locomotive running at constant speed is know as ________ running., ans: free
-question: In coasting, locomotive motor is, ans: off
-question: Coefficient of adhesion ___________ with increased roughness between rail and track., ans: increase
-question: types of train resistances, ans: both A and B
-question: Coefficient of adhesion is ratio of tangent force to the _________ force, ans: normal
-question: pantograph collects electricity from __________ lines for locomotive., ans: overhead
-question: Electric multiple unit consists of, ans: all the above
-question: Loading capacity is __________ in EMU as compare to locomotive., ans: more
-question: ___________ transfer power from overhead lines to locomotive., ans: pantograph
-question: For AC-DC conversion in traction system, ________ rectifier is used., ans: controlled
-question: ________ stroke diesel engine is fuel efficient., ans: both A and B
-question: ________ stroke diesel engine is simple in design., ans: 2
-question: DC traction system use ________type of DC motor., ans: series
-question: In tramps, ___________ traction transmission system is used., ans: DC
-question: In AC traction system _________ motor is used., ans: induction
-question: Maglev is a, ans: train
-question: _____________ type of electri braking has more torque., ans: plugging
-question: In AC motor, frequency is -------------- proportional to speed., ans: directly
-question: Magnetic levitation system is popularly known as, ans: MAGLEV
-question: _____________ conductors are used in MAGLEV., ans: super
-question: MAGLEV require, ans: all the above
-question: Trolley bus require ______________ power system., ans: over head
-question: Catenary wire is used with ______________ line., ans: over head
-question: Mumbai local is best example of, ans: EMU
-question: EMU contains, ans: all the above
-question: Trolley bus operating voltage is, ans: 600v
+The formate is ques:ans
+question: The normal connected load of a domestic consumer is usually, ans: upto 10 kW
+question: Load factor during a period is, ans: Average load/maximum demand
+question: Demand factor is the, ans: connected load/maximum demnad
+question: Load due to one tonne air conditioner is nearly, ans: 1kW to 2kW
+question: Load due to ceiling fans is nearly, ans: 100 to 200W
+question: Which domestic utility item has highest has power rating, ans: electric iron
+question: Load factor for 0-6 hr period alone is, ans: 1.0
+question: Which plant can never have 100% load factor?, ans: peak load plant
+question: Fuel transportation cost is least in, ans: Nuclear power plant
+question: Which factor is least important for base load plant?, ans: quick starting
+question: Which of the following appliance will offer the maximum load?, ans: hot plate
+question: The highest point on a load curve represents, ans: peak demand
+question: The power system experiences peak demand from, ans: 6P.M to 10P.M
+question: Why is load shedding done?, ans: efficient operation of equipment
+question: If power for your home became failed for uncertain time then it is known as------, ans: power cut
+question: Direct conversion of heat into electrical power is possible through, ans: thermionic converter
+question: The area under load a load curve gives, ans: energy consumed
+question: Which of the following is not a source of power?, ans: thermocouple
+question: power plant is expected to have the longest life, ans: hydroelectric
+question: power plant cannot have single unit of 100MW, ans: diesel
+question: Outdoor substation requires-----------space, ans: more
+question: An indoor substation is ---------expensive than outdoor substation, ans: more
+question: In outdoor substation,the lightning arrester is placed nearer to the, ans: power transformer
+question: Which is the first equipment seen in the substation while coming from transmission system?, ans: lightning arrester
+question: The transmission and distribution systems are ------- to man's circulatory system., ans: similar
+question: A 3-wire d.c distribution makes available---------voltages., ans: two
+question: A---------is a conductor from which tappings are taken for supply to the consumers, ans: distributor
+question: The service mains connect the--------and the consumer terminal., ans: distribution
+question: The type of cable used for cable service connection., ans: PVC cable
+question: The type of cable used for underground service connection, ans: underground cables
+question: For giving service connection to a consumer having a load of 12kw ACSR conductor is used,give its size., ans: 19.4mm^2
+question: The overhead line or cable connecting the suppliers distributing line to the consumer premises is called, ans: service mains
+question: Which type of wiring used in damp places, ans: lead sheathed
+question: what is the maximum number of points of light,fan &socket outlets that can be connected in one sub circuit?, ans: 10
+question: Which system is used in connections of various lamps or appliances in parallel?, ans: loop in system
+question: What is the maximum load that is usually connected in a power sub-circuits?, ans: 3,000W
+question: What is the maximum number of outlets,which can b connected in a power sub-circuits?, ans: two
+question: Which type of starter will you recommend for a 20kW squirrel cage induction motor?, ans: Auto transformer starter
+question: A metallic sheath is provided over the insulation to protect the cable from----------, ans: moisture
+question: What is the usable voltage for secondary distribution?, ans: 415/240V
+question: The-----system is very reliable as each distributor is fed two feeders., ans: ring
+question: What is the maximum load(light &fan) that ca be connected in one sub circuit?, ans: 800W
+question: Which system is used for distribution of electrical energy in a building?, ans: distribution board system
+question: Which wiring system is employed in mechanical workshops?, ans: conduit
+question: When series reactor is used in generating stations.the fault current magnitude is, ans: reduced
+question: What should be the fusing factor?, ans: less than one
+question: Miniature circuit breaker is a small, ans: electromagnetic switch
+question: Which part of the circuit breaker is helpful in breaking the circuit?, ans: contacts
+question: Which type of tripping is generally preferred for the circuit breaker?, ans: automatically
+question: Overheatings of generators winding, ans: reduces life of the machine
+question: Belted cable are generally used upto------kV, ans: 11kV
+question: An indoor substation is ---------expensive than outdoor substation, ans: more
+question: Majority of distribution substations are of----------type, ans: pole-mounted
+question: In outdoor substation,the lightning arrester is placed nearer to the, ans: power transformer
+question: The monitor and control of energy management system is done by, ans: SCADA
+question: IFMA stands for, ans: International facility management association
+question: Energy management is the key component of, ans: carbon management
+question: The main objective of energy management is to, ans: all of these
+question: Which country has the highest energy usage per capita?, ans: Iceland
+question: In the given options,the non-commercial source of energy is, ans: refined petroleum products
+question: What is the advantage of the static capacitor?, ans: all of the above
+question: The power factor of a.c circuit lies between, ans: 0 and 1
+question: Phase advancers are used for which of the following machines?, ans: Induction motor
+question: power factor of a load ca be improved by using, ans: all of the above
+question: If the load current decreases then the power factor, ans: will increase
+question: A synchronous motor takes the leading current when it is, ans: Either (a) or(b)
+question: For voltage boosting in distribution networks the capacitor used is, ans: series capacitors
+question: Lower power factor is usually not due to, ans: Incandescent lamp
+question: The primary reason for low power factor is due to the installation of, ans: Induction motor
+question: Two part tariff is charged on what basis?, ans: both (b)&(c)
+question: A variable charge is based on what?, ans: Energy consumption
+question: The tariff is applied for which kind of consumers, ans: big consumers
+question: Freon group of refrigerants are, ans: non-toxic and non inflammable
+question: Cooling water required for following equipment in ammonia absorption plant., ans: condenser,absorber &separator(rectifier)
+question: The vapour compression refrigerator employs the following cycle, ans: reverse carnot
+question: In a refrigeration system,the expansion device is connected between the, ans: receiver and evaporator
+question: During sensible cooling of air------------ decreases., ans: dry bulb temperature
+question: In case of liquids and gases,the heat ransfer takes placr according to, ans: convection
+question: The air cooling system mostly used in transport type air crafts is, ans: boot-strap air cooling system
+question: The advantage of rectifier type welding set is, ans: both(a)&(b)
+question: Non consumable electrodes are made of, ans: either carbon or graphite
+question: Advantage of electron beam welding is are-------, ans: all of these
+question: In metal arc welding,the filler material required is, ans: no filler is required
+question: The recrystallisation temperature of steel is, ans: 800deg/cel
+question: When a pattern is made in three parts,the top part is known as, ans: cope
+question: The fullers are used, ans: to finish the punch hole
+question: Arc welding is also known as, ans: non pressure welding
+question: The temperature of inner luminous cone of neutral flame is about, ans: 3210deg/celsius
+question: Seam welding is a, ans: continuous spot welding process
+question: The voltage-current characteristics of the arc welding must be, ans: drooping
+question: Radiant efficiency of the luminous source depends on, ans: temperature of the source
+question: The unit of solid angle is, ans: steradian
+question: The unit of luminous flux is, ans: lumen
+question: Which of the following will need the highest level of illumination?, ans: proof reading
+question: Which of the following will need the lowest level of illumination?, ans: railway platforms
+question: Which of the following lamp gives near monochromatic light?, ans: sodium vapor lamp
+question: One lumen per square meter is the same as, ans: one lux
+question: For the same wastage which lamp is cheapest, ans: GLS lamp
+question: The color temperature of day light is around, ans: 6000k
+question: Which gas is sometimes used in filament lamp?, ans: argon
+question: Which bulb operats on lowest power?, ans: torch bulb
+question: The output of tungsten filament lamp depends on, ans: temperature of filament
+question: When asodium vapor lamp is switched on,initially the color is, ans: pink
+question: Depreciation charge may be based on which method?, ans: both (a) &(b)
+question: What is the salvage value of a plant?, ans: may be any of these
+question: Major share of power generated in India is through which means, ans: thermal power plant
+question: Annual operating cost of a generating plant consist of, ans: all of these
