@@ -4,112 +4,297 @@ Whenever i ask you a MCQ (multiple-choice question), you must use this source to
 If the answer is in the provided source, I'll mark it with a green dot (🟢).
 If the answer is not in the provided source and I use my own knowledge, I'll mark it with a red dot (🔴).
 
-source: 
+POWER ELECTRONICS QUESTIONS source: 
 The formate is ques:ans
-question: The normal connected load of a domestic consumer is usually, ans: upto 10 kW
-question: Load factor during a period is, ans: Average load/maximum demand
-question: Demand factor is the, ans: connected load/maximum demnad
-question: Load due to one tonne air conditioner is nearly, ans: 1kW to 2kW
-question: Load due to ceiling fans is nearly, ans: 100 to 200W
-question: Which domestic utility item has highest has power rating, ans: electric iron
-question: Load factor for 0-6 hr period alone is, ans: 1.0
-question: Which plant can never have 100% load factor?, ans: peak load plant
-question: Fuel transportation cost is least in, ans: Nuclear power plant
-question: Which factor is least important for base load plant?, ans: quick starting
-question: Which of the following appliance will offer the maximum load?, ans: hot plate
-question: The highest point on a load curve represents, ans: peak demand
-question: The power system experiences peak demand from, ans: 6P.M to 10P.M
-question: Why is load shedding done?, ans: efficient operation of equipment
-question: If power for your home became failed for uncertain time then it is known as------, ans: power cut
-question: Direct conversion of heat into electrical power is possible through, ans: thermionic converter
-question: The area under load a load curve gives, ans: energy consumed
-question: Which of the following is not a source of power?, ans: thermocouple
-question: power plant is expected to have the longest life, ans: hydroelectric
-question: power plant cannot have single unit of 100MW, ans: diesel
-question: Outdoor substation requires-----------space, ans: more
-question: An indoor substation is ---------expensive than outdoor substation, ans: more
-question: In outdoor substation,the lightning arrester is placed nearer to the, ans: power transformer
-question: Which is the first equipment seen in the substation while coming from transmission system?, ans: lightning arrester
-question: The transmission and distribution systems are ------- to man's circulatory system., ans: similar
-question: A 3-wire d.c distribution makes available---------voltages., ans: two
-question: A---------is a conductor from which tappings are taken for supply to the consumers, ans: distributor
-question: The service mains connect the--------and the consumer terminal., ans: distribution
-question: The type of cable used for cable service connection., ans: PVC cable
-question: The type of cable used for underground service connection, ans: underground cables
-question: For giving service connection to a consumer having a load of 12kw ACSR conductor is used,give its size., ans: 19.4mm^2
-question: The overhead line or cable connecting the suppliers distributing line to the consumer premises is called, ans: service mains
-question: Which type of wiring used in damp places, ans: lead sheathed
-question: what is the maximum number of points of light,fan &socket outlets that can be connected in one sub circuit?, ans: 10
-question: Which system is used in connections of various lamps or appliances in parallel?, ans: loop in system
-question: What is the maximum load that is usually connected in a power sub-circuits?, ans: 3,000W
-question: What is the maximum number of outlets,which can b connected in a power sub-circuits?, ans: two
-question: Which type of starter will you recommend for a 20kW squirrel cage induction motor?, ans: Auto transformer starter
-question: A metallic sheath is provided over the insulation to protect the cable from----------, ans: moisture
-question: What is the usable voltage for secondary distribution?, ans: 415/240V
-question: The-----system is very reliable as each distributor is fed two feeders., ans: ring
-question: What is the maximum load(light &fan) that ca be connected in one sub circuit?, ans: 800W
-question: Which system is used for distribution of electrical energy in a building?, ans: distribution board system
-question: Which wiring system is employed in mechanical workshops?, ans: conduit
-question: When series reactor is used in generating stations.the fault current magnitude is, ans: reduced
-question: What should be the fusing factor?, ans: less than one
-question: Miniature circuit breaker is a small, ans: electromagnetic switch
-question: Which part of the circuit breaker is helpful in breaking the circuit?, ans: contacts
-question: Which type of tripping is generally preferred for the circuit breaker?, ans: automatically
-question: Overheatings of generators winding, ans: reduces life of the machine
-question: Belted cable are generally used upto------kV, ans: 11kV
-question: An indoor substation is ---------expensive than outdoor substation, ans: more
-question: Majority of distribution substations are of----------type, ans: pole-mounted
-question: In outdoor substation,the lightning arrester is placed nearer to the, ans: power transformer
-question: The monitor and control of energy management system is done by, ans: SCADA
-question: IFMA stands for, ans: International facility management association
-question: Energy management is the key component of, ans: carbon management
-question: The main objective of energy management is to, ans: all of these
-question: Which country has the highest energy usage per capita?, ans: Iceland
-question: In the given options,the non-commercial source of energy is, ans: refined petroleum products
-question: What is the advantage of the static capacitor?, ans: all of the above
-question: The power factor of a.c circuit lies between, ans: 0 and 1
-question: Phase advancers are used for which of the following machines?, ans: Induction motor
-question: power factor of a load ca be improved by using, ans: all of the above
-question: If the load current decreases then the power factor, ans: will increase
-question: A synchronous motor takes the leading current when it is, ans: Either (a) or(b)
-question: For voltage boosting in distribution networks the capacitor used is, ans: series capacitors
-question: Lower power factor is usually not due to, ans: Incandescent lamp
-question: The primary reason for low power factor is due to the installation of, ans: Induction motor
-question: Two part tariff is charged on what basis?, ans: both (b)&(c)
-question: A variable charge is based on what?, ans: Energy consumption
-question: The tariff is applied for which kind of consumers, ans: big consumers
-question: Freon group of refrigerants are, ans: non-toxic and non inflammable
-question: Cooling water required for following equipment in ammonia absorption plant., ans: condenser,absorber &separator(rectifier)
-question: The vapour compression refrigerator employs the following cycle, ans: reverse carnot
-question: In a refrigeration system,the expansion device is connected between the, ans: receiver and evaporator
-question: During sensible cooling of air------------ decreases., ans: dry bulb temperature
-question: In case of liquids and gases,the heat ransfer takes placr according to, ans: convection
-question: The air cooling system mostly used in transport type air crafts is, ans: boot-strap air cooling system
-question: The advantage of rectifier type welding set is, ans: both(a)&(b)
-question: Non consumable electrodes are made of, ans: either carbon or graphite
-question: Advantage of electron beam welding is are-------, ans: all of these
-question: In metal arc welding,the filler material required is, ans: no filler is required
-question: The recrystallisation temperature of steel is, ans: 800deg/cel
-question: When a pattern is made in three parts,the top part is known as, ans: cope
-question: The fullers are used, ans: to finish the punch hole
-question: Arc welding is also known as, ans: non pressure welding
-question: The temperature of inner luminous cone of neutral flame is about, ans: 3210deg/celsius
-question: Seam welding is a, ans: continuous spot welding process
-question: The voltage-current characteristics of the arc welding must be, ans: drooping
-question: Radiant efficiency of the luminous source depends on, ans: temperature of the source
-question: The unit of solid angle is, ans: steradian
-question: The unit of luminous flux is, ans: lumen
-question: Which of the following will need the highest level of illumination?, ans: proof reading
-question: Which of the following will need the lowest level of illumination?, ans: railway platforms
-question: Which of the following lamp gives near monochromatic light?, ans: sodium vapor lamp
-question: One lumen per square meter is the same as, ans: one lux
-question: For the same wastage which lamp is cheapest, ans: GLS lamp
-question: The color temperature of day light is around, ans: 6000k
-question: Which gas is sometimes used in filament lamp?, ans: argon
-question: Which bulb operats on lowest power?, ans: torch bulb
-question: The output of tungsten filament lamp depends on, ans: temperature of filament
-question: When asodium vapor lamp is switched on,initially the color is, ans: pink
-question: Depreciation charge may be based on which method?, ans: both (a) &(b)
-question: What is the salvage value of a plant?, ans: may be any of these
-question: Major share of power generated in India is through which means, ans: thermal power plant
-question: Annual operating cost of a generating plant consist of, ans: all of these
+Que: What additional change is made in SCR to get the SCS?
+Ans: Add another external terminal to SCR
+Que: Which configuration modifies SCR into SCS by adding extra terminal to?
+Ans: connected to the base of the top transistor
+Que: The turn-off time of SCS lies in the range of?
+Ans: 1 to 10 micro-sec
+Que: Maximum allowed anode current in a SCS ranges from?
+Ans: 100 mA to 300 mA
+Que: Due to which commutation an extra terminal allows more control over the device?
+Ans: Forced Commutation
+Que: How many terminals does a DIAC have?
+Ans: 2
+Que: DIAC is?
+Ans: bidirectional device
+Que: DIAC can act as?
+Ans: an AC switch
+Que: A normal way to turn-on a DIAC is by?
+Ans: Break-over voltage
+Que: Breakdown voltage of a DIAC is?
+Ans: 30 volt
+Que: How many layers of semiconductor does DIAC have?
+Ans: 4
+Que: How many minimum thyristors make up a TRIAC?
+Ans: 2
+Que: TRIAC can act as?
+Ans: an AC switch
+Que: Number of doped regions present in a TRIAC?
+Ans: 6
+Que: How many layers of semiconductor does TRIAC have?
+Ans: 4
+Que: How many terminals does a TRIAC have?
+Ans: 3
+Que: How many terminals are there in UJT?
+Ans: 3
+Que: The terminals of UJT are:
+Ans: Emitter, Base1, Base2
+Que: UJT is mainly used for?
+Ans: on-off switching device
+Que: A UJT has?
+Ans: One PN junction
+Que: UJT may be used as?
+Ans: a sawtooth generator
+Que: The P-type emitter of an UJT is....doped?
+Ans: Heavily
+Que: Which type of material is the channel of a UJT made up of?
+Ans: N-type
+Que: Inverter converts ________ to AC?
+Ans: DC
+Que: DC to AC conversion is performed by?
+Ans: Inverter
+Que: The use of transistor in inverter circuit?
+Ans: Reduces the efficiency
+Que: Classification of inverter is?
+Ans: all the above
+Que: Cross over distortion in an inverter is caused due to?
+Ans: Switching transistor
+Que: The main objective of DC to AC converters is to obtain?
+Ans: AC waveform from DC power supply
+Que: Cross over distortion can be minimized in inverter by using?
+Ans: biasing diode
+Que: 1-ф half bridge inverter contains _____ number of switches?
+Ans: 2
+Que: 1-ф full bridge inverter contains _____ number of switches?
+Ans: 4
+Que: In 1-ф full bridge inverter an advantage of unipolar switching is?
+Ans: Doubling of switching frequency
+Que: For a 1-ф full bridge inverter fed from 48 V DC with load resistance of 2.4 ohm, the RMS value of an output voltage is?
+Ans: 43 V
+Que: Compared to a 1-ф half bridge inverter, the output power of full bridge inverter is?
+Ans: high by a factor of 4
+Que: Voltage source inverter means that an input power of an inverter is?
+Ans: DC Voltage
+Que: 1-ф voltage source inverter are mainly used in?
+Ans: all the above
+Que: VSI stands for?
+Ans: Voltage Source Inverter
+Que: The oldest and commonly used inverter topology is?
+Ans: Push-Pull
+Que: Which inverter creates less noise?
+Ans: Push-Pull
+Que: Output voltage in 1ф half bridge inverter is?
+Ans: Vs/2
+Que: Output voltage in 1ф full bridge inverter is?
+Ans: Vs
+Que: In 1-ф full bridge inverter the output waveform is?
+Ans: both square and quasi-square
+Que: For what purpose transistor is used in Push-Pull inverter?
+Ans: Switching
+Que: In 3 ф bridge inverter number of switches are?
+Ans: 6
+Que: A 3 ф inverter with 180 degree conduction mode the number switches that is ON at any instant of time is?
+Ans: 3
+Que: How many minimum numbers of switching device is required in 3 ф bridge inverter?
+Ans: 6
+Que: In 3 ф safe commutation can be achieved in case of the....... Operating mode?
+Ans: 120 degree
+Que: In 3 ф bridge inverter in 120 degree mode of operation.....devices conduct at a time?
+Ans: 2
+Que: If input voltage is Vs, then Output voltage of 3 ф inverter in 180 degree mode is?
+Ans: 2Vs/3
+Que: In 3 ф bridge inverter, each step consists of?
+Ans: 60 degree
+Que: _________ converts fixed AC into variable AC?
+Ans: AC voltage controller
+Que: Input and output frequency of AC voltage controller is same?
+Ans: TRUE
+Que: Main application of AC voltage converter?
+Ans: all the above
+Que: Which voltage does AC voltage Control Change?
+Ans: RMS voltage
+Que: In which of the following both frequency and voltage can be controlled?
+Ans: inverter and cycloconverter
+Que: AC to AC conversion is done by?
+Ans: Cycloconverter
+Que: In the principle of phase control?
+Ans: is achieved by adjusting the firing angle of the devices
+Que: Using thyristor to turn on and off results in?
+Ans: decreases harmonics
+Que: The thyristor switching is used in AC voltage controller where?
+Ans: speed control of AC motor is required
+Que: Triggering thyristor alternately results in?
+Ans: bidirectional current flow
+Que: A single-phase half wave voltage controller consists of?
+Ans: one SCR is anti parallel with one diode
+Que: In half wave voltage controller, _______ number SCR used?
+Ans: 1
+Que: In full wave voltage controller, ______ number SCR used?
+Ans: 2
+Que: How many thyristors are used in 1-phase bidirectional AC voltage controller with R-load?
+Ans: 2
+Que: Arrangement of thyristor in 1-phase AC voltage controller with R-load?
+Ans: anti-parallel
+Que: During negative half cycle in AC voltage controller with R-load?
+Ans: thyristor 2 conducts
+Que: During negative half cycle in AC voltage controller with R-load, the output waveform lies between?
+Ans: π and 2π
+Que: A practical load consist of?
+Ans: resistive and inductive
+Que: Arrangement of thyristor in 1-phase AC voltage controller with RL-load?
+Ans: anti-parallel
+Que: During positive half cycle in AC voltage controller with RL-load, the output waveform lies between?
+Ans: 0 and π
+Que: During negative half cycle in AC voltage controller with RL-load?
+Ans: both the SCR conducts
+Que: An inductor starts discharging in AC voltage controller in RL-load configuration while?
+Ans: negative half cycle
+Que: An inductor starts charging in AC voltage controller in RL-load configuration while?
+Ans: positive half cycle
+Que: Most common application of AC voltage controller is speed control of?
+Ans: Universal motor
+Que: Universal motor is operated on?
+Ans: Both AC and DC voltage
+Que: At no load condition the universal motor will run at?
+Ans: maximum speed
+Que: What are the different mechanism of speed control of universal motor?
+Ans: Resistive method
+Que: Field Tapping method is used to control speed of?
+Ans: Universal motor
+Que: In which method the speed of universal motor is controlled by varying the field?
+Ans: Field Tapping method
+Que: Which material is used in a resistance that is wound over one of the field poles in field tapping method?
+Ans: Nickel
+Que: In controlling the speed of the motor in sewing machine which method is used?
+Ans: Resistance method
+Que: Cycloconverter changes?
+Ans: frequency
+Que: To create difference between input and output frequency _____is used?
+Ans: cycloconverter
+Que: Cyclo-converters are commonly used in?
+Ans: Variable frequency drives
+Que: A cycloconverter is a?
+Ans: one stage frequency converter
+Que: Applications of cycloconverters include?
+Ans: all of the mentioned
+Que: A cycloconverter fed induction motor drive is most suitable for which one of the following?
+Ans: machine tool drive
+Que: Which of the following options represents change and control voltage magnitude and frequency both?
+Ans: AC-AC cycloconversion
+Que: An advantage of a cycloconverter is?
+Ans: load commutation is possible
+Que: Cycloconverter drives are generally employed in?
+Ans: generating low frequencies
+Que: The widely used cycloconverter is?
+Ans: step-down
+Que: Which commutation method is used in step down cycloconverter?
+Ans: Natural commutation
+Que: The single phase mid-point type cycloconverter uses __________ number of SCRs?
+Ans: 4
+Que: The single phase bridge type cycloconverter uses __________ number of SCRs?
+Ans: 8
+Que: An inter-group reactor is used in a single phase cycloconverter circuit to?
+Ans: limit circulating current
+Que: In single phase cycloconverter the output frequency is.........of the input frequency?
+Ans: one-fourth
+Que: The quality of an output AC voltage of a cycloconverter is improved with?
+Ans: [Answer not provided in the source document]
+Que: In single phase cycloconverter for the positive half cycle from ωt = 0 to π, thyristor?
+Ans: P1 and N2 are forward biased
+Que: How many switches are used to construct a three phase cycloconverter?
+Ans: 18
+Que: To minimize the magnitude of harmonic components in a single phase cycloconverter generally uses?
+Ans: three phase input supply
+Que: If one of the SCR fails in three phase cycloconverter it operates with?
+Ans: distorted output
+Que: To get minimum harmonic distortion in the output, a 3-phase cycloconverter requires?
+Ans: 36 SCRs
+Que: In which converter the power transfer is possible from supply load and vice versa at any power factor?
+Ans: three-phase cycloconverter
+Que: A cycloconverter is operating at 50Hz supply. The range of output frequency that can be obtained with better quality is?
+Ans: 0-128 Hz
+Que: EMI is produced due to?
+Ans: both electricity and magnetism
+Que: EMI stands for?
+Ans: Electromagnetic Interference
+Que: Any electrical signal present in a circuit other than the desired signal is known as?
+Ans: all of these
+Que: A moving magnetic field produces?
+Ans: both an electric current and a flow of charge
+Que: Which of the following phenomenon produces an EMI?
+Ans: both a television attached to projector and a cell phone placed near laptop
+Que: Lightning of light produces?
+Ans: strong electrostatic discharges
+Que: EMI can be caused due to?
+Ans: Both Malfunctioning and Improper design of electronic devices
+Que: High frequency EMI source is?
+Ans: all of these
+Que: The man made noise sources is / are?
+Ans: all of these
+Que: Which of the following statement is true about EMC?
+Ans: ability of not affecting other equipment in same environment.
+Que: EMC is the concept of enabling different?
+Ans: electronics devices to operate without mutual interference
+Que: EMC stands for...?
+Ans: Electromagnetic compatibility
+Que: EMC is involved in?
+Ans: electromagnetic environment
+Que: Electronics devices are susceptible to catch?
+Ans: unwanted electrical signals
+Que: The ability of an electronic system to function properly in its electromagnetic environment is known as?
+Ans: Electromagnetic compatibility
+Que: The effects of EMI can be reduced by?
+Ans: all of these
+Que: Which of the following technique is used for prevention of EMI?
+Ans: Shielding and grounding
+Que: Possible ways to minimize the EMI?
+Ans: all of these
+Que: Which one of the following is the most cost-effective way of prevention of EMI?
+Ans: Shielding and grounding
+Que: Which of the following technique is used for better grounding?
+Ans: use multiple grounding points
+Que: Why shielding is important?
+Ans: to minimize EMI
+Que: EMI shielding uses...to prevent EMI?
+Ans: Faradays's cage
+Que: The material used in Faraday's cage is?
+Ans: copper
+Que: How to reduce EMI between analog and digital devices?
+Ans: maintain separate ground
+Que: Grounding the devices helps to achieve?
+Ans: Both safety and EMC
+Que: How many fundamental stages are there in an inverter circuit?
+Ans: four
+Que: DC Power source comes in..........stage of an inverter?
+Ans: First
+Que: Role of an oscillator is to convert?
+Ans: DC to AC
+Que: Duty cycle of astable multivibrator?
+Ans: remains constant
+Que: An output of astable multivibrator is?
+Ans: Constant frequency
+Que: What type of DC power source is used in an inverter?
+Ans: Any one of the above
+Que: The final stage of an inverter circuit contains?
+Ans: Transformer
+Que: Instead of an oscillator which alternative circuit can be used?
+Ans: Multivibrator
+Que: The heart of an inverter circuit is?
+Ans: Oscillator
+Que: Driving stage of an inverter includes?
+Ans: Power MOSFET
+Que: The driving stage can be directly controlled by?
+Ans: Microcontroller
+Que: The Frequency of transistor based Astable multivibrator is given by?
+Ans: F = 1 / 1.38 x R x C
+Que: An output of an inverter depends on?
+Ans: all the above
+Que: Which of the following configurations increases the power output of an inverter?
+Ans: Four MOSFETs in parallel
+Que: An inverter gives stable output in the frequency range of?
+Ans: 50 Hz to 60 Hz
+Que: Role of fuse in an inverter circuit is to protect?
+Ans: DC battery
