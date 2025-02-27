@@ -3,8 +3,10 @@ I've noted down the questions and answers you provided.
 Whenever i ask you a MCQ (multiple-choice question), you must use this source to help you find the correct answer.
 If the answer is in the provided source, I'll mark it with a green dot (🟢).
 If the answer is not in the provided source and I use my own knowledge, I'll mark it with a red dot (🔴).
+i will provide the source in 2 parts due to its larger lenth
 
 POWER ELECTRONICS QUESTIONS source: 
+its part 1
 The formate is ques:ans
 Que: What additional change is made in SCR to get the SCS?
 Ans: Add another external terminal to SCR
@@ -142,6 +144,13 @@ Que: During negative half cycle in AC voltage controller with R-load?
 Ans: thyristor 2 conducts
 Que: During negative half cycle in AC voltage controller with R-load, the output waveform lies between?
 Ans: π and 2π
+
+
+
+
+
+
+its part 2:
 Que: A practical load consist of?
 Ans: resistive and inductive
 Que: Arrangement of thyristor in 1-phase AC voltage controller with RL-load?
